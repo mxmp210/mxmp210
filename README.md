@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Symfony projects**
 
-- 🌱 I’m currently learning **Symfony, Django, Kafka, Hadoop**
+- 🌱 I’m currently learning **Symfony, Django, Kafka, Hadoop, K8s**
 
 - 👯 I’m looking to collaborate on **Symfony projects**
 
