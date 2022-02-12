@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Symfony, Django, Kafka, Hadoop, K8s**
 
-- 👯 I’m looking to collaborate on **Symfony projects**
+- 👯 I’m looking to collaborate on **Symfony projects, Infrastructure Automation, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.infdesignsolution.com/works/](https://www.infdesignsolution.com/works/)
 
