@@ -1,23 +1,16 @@
-<h1 align="center">Hi 👋, I'm Maulik Parmar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Meet 👋,Maulik Parmar - a Versatile Computer Science Engineer</h1>
+<h3 align="center">I'm a passionate backend developer, brand developer, graphics designer & scalalble infrastructure creator</h3>
 
-- 🔭 I’m currently working on **Symfony projects**
-
-- 🌱 I’m currently learning **Symfony, Django, Kafka, Hadoop, K8s**
-
-- 👯 I’m looking to collaborate on **Symfony projects, Infrastructure Automation, Software Engineering**
-
-- 👨‍💻 All of my projects are available at [https://www.infdesignsolution.com/works/](https://www.infdesignsolution.com/works/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/maulikparmar/](https://www.linkedin.com/in/maulikparmar/)
-
-- 💬 Ask me about **react, angular, symfony, sfotware architecture, backend engineering etc.**
-
+- 🔭 I’m currently working on **Symfony projects, Branding Projects & Maintianing Existing Infrastructure for businesses**
+- 🌱 I’m currently  **Kafka, Hadoop, K8s & Distributed Systems**
+- 👯 I’m looking to collaborate on **Symfony / Laravel projects, Infrastructure Automation, Software Engineering, Devops & Scalable Systems**
+- ⚙  Type of projects I usually work on includes : Custom CRMs, Client Portals, e-Commerce solutions, Warehousing Systems & Business Autionation Systems
+- 👨‍💻 My branding projects are available at [https://www.infdesignsolution.com/works/](https://www.infdesignsolution.com/works/)
+- 📝 My articles / thoughts are available on [https://www.linkedin.com/in/maulikparmar/](https://www.linkedin.com/in/maulikparmar/)
+- 💬 Ask me about **React, Angular, Symfony, Software Architecture, Backend Engineering etc.**
 - 📫 How to reach me **info@infdesignsolution.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/maulikparmar/](https://www.linkedin.com/in/maulikparmar/)
-
-- ⚡ Fun fact **I'm a problem solver and I love challenges!**
+- ⚡ Fun fact **I'm a problem solver and I love challenges, I like mentoring young passioante minds!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
